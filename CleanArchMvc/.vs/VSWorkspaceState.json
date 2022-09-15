@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CleanArchMvc.Domain",
+    "\\CleanArchMvc.Domain\\Entities",
+    "\\CleanArchMvc.Domain\\Interfaces",
+    "\\CleanArchMvc.Domain\\Validation"
+  ],
+  "SelectedNode": "\\CleanArchMvc.Domain\\Interfaces\\ICategoryRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
