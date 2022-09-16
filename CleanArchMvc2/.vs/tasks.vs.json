@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-CleanArchMvc.Infra",
+      "appliesTo": "CleanArchMvc.Infra.Data/",
+      "type": "launch"
+    }
+  ]
+}

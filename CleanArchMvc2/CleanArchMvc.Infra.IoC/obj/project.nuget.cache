@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iFqbG/3USWRCOI9iyoKx6UR/Z2Zd4vEl0y5aeyE2tHe6u/RanZCenEBxAcaea2b056jtqtoeAeTBe8+S211fCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulo\\Desktop\\Desktop\\Programação\\Clean Architecture\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
