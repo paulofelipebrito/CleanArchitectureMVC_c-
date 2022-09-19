@@ -1,24 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uITBaQ/5NXSZHbXEawvnkKjYQPi1u798uLrB/7BWycOx/HMNmYXv8Br5MY2GbAAJYPsEdYGFZ81uGizs7penEA==",
+  "dgSpecHash": "z4jIA8888YBcmO9jVvcCJJw6u9mp9h4s097hJ1XgfWlqmdu7SX6yFLtiYneqbbKlyhTyr8vJkaJNJW4l6GEG7g==",
   "success": true,
   "projectFilePath": "C:\\Users\\paulo\\Desktop\\Desktop\\Programação\\Clean Architecture\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.9\\microsoft.entityframeworkcore.6.0.9.nupkg.sha512",
-    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.9\\microsoft.entityframeworkcore.abstractions.6.0.9.nupkg.sha512",
-    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.9\\microsoft.entityframeworkcore.analyzers.6.0.9.nupkg.sha512",
-    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
-    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
-    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
-    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\paulo\\.nuget\\packages\\sonaranalyzer.csharp\\8.45.0.54064\\sonaranalyzer.csharp.8.45.0.54064.nupkg.sha512",
-    "C:\\Users\\paulo\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
-    "C:\\Users\\paulo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
-    "C:\\Users\\paulo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\paulo\\.nuget\\packages\\sonaranalyzer.csharp\\8.45.0.54064\\sonaranalyzer.csharp.8.45.0.54064.nupkg.sha512"
   ],
   "logs": []
 }

@@ -9,7 +9,8 @@
       "CleanArchMvc.Application/1.0.0": {
         "dependencies": {
           "CleanArchMvc.Domain": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "6.0.9"
+          "Microsoft.EntityFrameworkCore": "6.0.9",
+          "SonarAnalyzer.CSharp": "8.45.0.54064"
         },
         "runtime": {
           "CleanArchMvc.Application.dll": {}
@@ -133,6 +134,7 @@
           }
         }
       },
+      "SonarAnalyzer.CSharp/8.45.0.54064": {},
       "System.Collections.Immutable/6.0.0": {
         "dependencies": {
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
@@ -145,9 +147,6 @@
       },
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
       "CleanArchMvc.Domain/1.0.0": {
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "6.0.9"
-        },
         "runtime": {
           "CleanArchMvc.Domain.dll": {}
         }
@@ -236,6 +235,13 @@
       "sha512": "sha512-9+PnzmQFfEFNR9J2aDTfJGGupShHjOuGw4VUv+JB044biSHrnmCIMD+mJHmb2H7YryrfBEXDurxQ47gJZdCKNQ==",
       "path": "microsoft.extensions.primitives/6.0.0",
       "hashPath": "microsoft.extensions.primitives.6.0.0.nupkg.sha512"
+    },
+    "SonarAnalyzer.CSharp/8.45.0.54064": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TpLL/+BUEKzGYvXYc7rfndurRo2rAt1VuGrYg8h3gYe02+h6ffgWm9+Ak6s1k1RSCkMywjvzgUaY2X277gBbaw==",
+      "path": "sonaranalyzer.csharp/8.45.0.54064",
+      "hashPath": "sonaranalyzer.csharp.8.45.0.54064.nupkg.sha512"
     },
     "System.Collections.Immutable/6.0.0": {
       "type": "package",

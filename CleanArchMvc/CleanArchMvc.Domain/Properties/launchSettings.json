@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Perfil 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\paulo\\Desktop\\Desktop\\Programação\\Clean Architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\Program.cs"
+    }
+  }
+}

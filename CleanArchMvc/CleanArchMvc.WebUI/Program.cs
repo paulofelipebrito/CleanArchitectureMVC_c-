@@ -11,6 +11,9 @@ namespace CleanArchMvc.WebUI
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
+            IConfiguration configuration = builder.Configuration;
+            builder.Services.AddInfrastructure(configuration);
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -31,10 +34,7 @@ namespace CleanArchMvc.WebUI
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
-
-            IConfiguration configuration = app.Configuration;
-            builder.Services.AddInfrastructure(configuration);
-
+                        
             app.Run();
         }
     }
