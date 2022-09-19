@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mALf9jkykEStS0RNgSkQ3Yq/LI7o81V4hrwUId3Vj2yVFpJp1UXBBP3DU7PtPmvtCNV1uJhp/Q/TaE6nTUiVHg==",
+  "dgSpecHash": "pjvEPZttkDIT9ieX4KOIAjMHiclQJgr1b/dO7vqNSavo4y8Ef6xE9gRUCVPXrbBdq+mdyNkfEua3v/iAHQnCvA==",
   "success": true,
   "projectFilePath": "C:\\Users\\paulo\\Desktop\\Desktop\\Programação\\Clean Architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\paulo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\paulo\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\paulo\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\sonaranalyzer.csharp\\8.45.0.54064\\sonaranalyzer.csharp.8.45.0.54064.nupkg.sha512",
     "C:\\Users\\paulo\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\paulo\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\paulo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
