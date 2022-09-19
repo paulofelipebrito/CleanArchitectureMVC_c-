@@ -1,3 +1,5 @@
+using CleanArchMvc.Infra.IoC;
+
 namespace CleanArchMvc.WebUI
 {
     public class Program
@@ -29,6 +31,9 @@ namespace CleanArchMvc.WebUI
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
+
+            IConfiguration configuration = app.Configuration;
+            builder.Services.AddInfrastructure(configuration);
 
             app.Run();
         }
