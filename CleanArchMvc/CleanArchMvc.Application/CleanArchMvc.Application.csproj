@@ -22,7 +22,6 @@
 
   <ItemGroup>
     <Folder Include="DTOs\" />
-    <Folder Include="Mappings\" />
     <Folder Include="Interfaces\" />
     <Folder Include="Products\Commands\" />
     <Folder Include="Products\Handlers\" />
