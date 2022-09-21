@@ -1,10 +1,11 @@
+using CleanArchMvc.Domain.Account;
 using CleanArchMvc.Infra.IoC;
 
 namespace CleanArchMvc.WebUI
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static void Main(string[] args, ISeedUserRoleInitial seedUserRoleInitial)
         {
             var builder = WebApplication.CreateBuilder(args);
 
@@ -28,6 +29,11 @@ namespace CleanArchMvc.WebUI
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            seedUserRoleInitial.SeedRoles();
+            seedUserRoleInitial.SeedUsers();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
