@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z4jIA8888YBcmO9jVvcCJJw6u9mp9h4s097hJ1XgfWlqmdu7SX6yFLtiYneqbbKlyhTyr8vJkaJNJW4l6GEG7g==",
+  "dgSpecHash": "mWjO0+4+VTgkJ//8ZiMVn46XDOsPWQtRKSOhcUS0kXgtxBGIjNB9Ci5cKJ6oqbATMEqlGQvlpVHxE9MTAsKRZg==",
   "success": true,
   "projectFilePath": "C:\\Users\\paulo\\Desktop\\Desktop\\Programação\\Clean Architecture\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\paulo\\.nuget\\packages\\sonaranalyzer.csharp\\8.45.0.54064\\sonaranalyzer.csharp.8.45.0.54064.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,38 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "SonarAnalyzer.CSharp/8.45.0.54064": {
-        "type": "package"
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "SonarAnalyzer.CSharp/8.45.0.54064": {
-      "sha512": "TpLL/+BUEKzGYvXYc7rfndurRo2rAt1VuGrYg8h3gYe02+h6ffgWm9+Ak6s1k1RSCkMywjvzgUaY2X277gBbaw==",
-      "type": "package",
-      "path": "sonaranalyzer.csharp/8.45.0.54064",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "analyzers/Google.Protobuf.dll",
-        "analyzers/SonarAnalyzer.CFG.dll",
-        "analyzers/SonarAnalyzer.CSharp.dll",
-        "analyzers/SonarAnalyzer.dll",
-        "images/sonarsource_64.png",
-        "license/THIRD-PARTY-NOTICES.txt",
-        "sonaranalyzer.csharp.8.45.0.54064.nupkg.sha512",
-        "sonaranalyzer.csharp.nuspec",
-        "tools/install.ps1",
-        "tools/uninstall.ps1"
-      ]
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "SonarAnalyzer.CSharp >= 8.45.0.54064"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\paulo\\.nuget\\packages\\": {},
@@ -77,14 +50,6 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
-        "dependencies": {
-          "SonarAnalyzer.CSharp": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "[8.45.0.54064, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
