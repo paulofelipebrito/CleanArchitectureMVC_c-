@@ -1,11 +1,12 @@
 using CleanArchMvc.Domain.Account;
 using CleanArchMvc.Infra.IoC;
+using Microsoft.EntityFrameworkCore.Diagnostics;
 
 namespace CleanArchMvc.WebUI
 {
     public class Program
     {
-        public static void Main(string[] args, ISeedUserRoleInitial seedUserRoleInitial)
+        public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
@@ -30,8 +31,9 @@ namespace CleanArchMvc.WebUI
 
             app.UseRouting();
 
-            seedUserRoleInitial.SeedRoles();
-            seedUserRoleInitial.SeedUsers();
+            SeedUserRoles(app);
+            //seedUserRoleInitial.SeedRoles();
+            //seedUserRoleInitial.SeedUsers();
 
             app.UseAuthentication();
 
@@ -42,6 +44,15 @@ namespace CleanArchMvc.WebUI
                 pattern: "{controller=Home}/{action=Index}/{id?}");
                         
             app.Run();
+        }
+        static void SeedUserRoles(IApplicationBuilder app)
+        {
+            using (var serviceScope = app.ApplicationServices.CreateScope())
+            {
+                var seed = serviceScope.ServiceProvider.GetService<ISeedUserRoleInitial>();
+                seed.SeedRoles();
+                seed.SeedUsers();
+            }
         }
     }
 }

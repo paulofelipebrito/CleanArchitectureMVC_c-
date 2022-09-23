@@ -2,10 +2,13 @@ using CleanArchMvc.Infra.IoC;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Add services to the container.
 IConfiguration configuration = builder.Configuration;
 builder.Services.AddInfrastructureAPI(configuration);
 
-// Add services to the container.
+builder.Services.AddInfrastructureJWT(configuration);
+builder.Services.AddInfrastructureSwagger();
+
 
 
 builder.Services.AddControllers();
@@ -24,6 +27,10 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseStatusCodePages();
+app.UseRouting();
+
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
