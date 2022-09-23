@@ -33,7 +33,7 @@
 </details>
 
 <h1 align="center">
-    Cryptoverse
+    Clean Architecture
 </h1>
 
 <!-- ABOUT THE PROJECT -->
@@ -48,7 +48,7 @@
 </p>
 </div>
 
-Welcome to the _GitHub repository_ of my **Clean Architecture** project! Here you can find information about the project's development, such as which technologies were used, how to install and run the project, usage and more.
+Welcome to the _GitHub repository_ of my **Clean Architecture** project to study my knowledges! Here you can find information about the project's development, such as which technologies were used, how to install and run the project, usage and more.
 
 Project organization:
 <div align="center">
