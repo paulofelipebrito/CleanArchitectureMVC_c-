@@ -42,8 +42,8 @@
 <div align="center">
 
 <p style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="client" title="#client" src="../assets/demo.gif" > 
-  <img alt="api" title="#api" src="../assets/demo1.gif" > 
+  <img alt="client" title="#client" src="./assets/demo.gif" > 
+  <img alt="api" title="#api" src="./assets/demo1.gif" > 
 
 </p>
 </div>
