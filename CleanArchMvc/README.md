@@ -54,9 +54,9 @@ Project organization:
 <div align="center">
 
 <p style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="CleanArchMvc" title="#CleanArchMvc" src="../assets/CleanArchMvc.png" > 
-  <img alt="Fullsquema" title="#Fullsquema" src="../assets/Fullsquema.png" > 
-  <img alt="Identity" title="#Identity" src="../assets/Identity.png" > 
+  <img alt="CleanArchMvc" title="#CleanArchMvc" src="./assets/CleanArchMvc.png" > 
+  <img alt="Fullsquema" title="#Fullsquema" src="./assets/Fullsquema.png" > 
+  <img alt="Identity" title="#Identity" src="./assets/Identity.png" > 
 
 </p>
 </div>
