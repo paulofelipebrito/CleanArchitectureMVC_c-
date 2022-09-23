@@ -42,7 +42,8 @@
 <div align="center">
 
 <p style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="cryptocoins" title="#cryptocoins" src="./src/assets/demo.gif" > 
+  <img alt="client" title="#client" src="../assets/demo.gif" > 
+  <img alt="api" title="#api" src="../assets/demo.gif" > 
 
 </p>
 </div>
@@ -53,7 +54,9 @@ Project organization:
 <div align="center">
 
 <p style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="cryptocoins" title="#cryptocoins" src="./src/assets/demo.gif" > 
+  <img alt="CleanArchMvc" title="#CleanArchMvc" src="./assets/CleanArchMvc.png" > 
+  <img alt="Fullsquema" title="#Fullsquema" src="./assets/Fullsquema.png" > 
+  <img alt="Identity" title="#Identity" src="./assets/Identity.png" > 
 
 </p>
 </div>
@@ -62,7 +65,8 @@ Project organization:
 
 ### Built With
 
-* [![React][React.js]][React-url]
+* [![dotnet][dotnet]][dotnet-url]
+* [![csharp][csharp]][csharp-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -219,3 +223,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Typescript-url]: (https://www.typescriptlang.org)
 [deploy-url]: https://shopshoes-client.herokuapp.com
 [dash-deploy-url]: https://cryptocoinstoday.netlify.app
+[dotnet]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+[csharp]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+[dotnet-url]: https://learn.microsoft.com/en-us/dotnet/?WT.mc_id=dotnet-35129-website
+[csharp-url]: https://learn.microsoft.com/pt-br/dotnet/csharp/
