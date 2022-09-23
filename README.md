@@ -43,7 +43,7 @@
 
 <p style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="client" title="#client" src="../assets/demo.gif" > 
-  <img alt="api" title="#api" src="../assets/demo.gif" > 
+  <img alt="api" title="#api" src="../assets/demo1.gif" > 
 
 </p>
 </div>
@@ -54,9 +54,9 @@ Project organization:
 <div align="center">
 
 <p style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="CleanArchMvc" title="#CleanArchMvc" src="./assets/CleanArchMvc.png" > 
-  <img alt="Fullsquema" title="#Fullsquema" src="./assets/Fullsquema.png" > 
-  <img alt="Identity" title="#Identity" src="./assets/Identity.png" > 
+  <img alt="CleanArchMvc" title="#CleanArchMvc" src="./assets/CleanArchMvc.PNG" > 
+  <img alt="Fullsquema" title="#Fullsquema" src="./assets/Fullsquema.PNG" > 
+  <img alt="Identity" title="#Identity" src="./assets/Identity.PNG" > 
 
 </p>
 </div>
@@ -86,17 +86,12 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/paulofelipebrito/cryptocoins-update-app
+   git clone https://github.com/paulofelipebrito/CleanArchitectureMVC_c-
    ```
-2. Install NPM packages
-   ```sh
-   npm install 
-   ```
-3. Start the app with npm
+2. Start the server (project CleanArchMvc.API or CleanArchMvc.WebUI) in Visual Studio
    ```sh
    npm start 
    ```   
-4. Visit `http://localhost:3000/` on your browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,7 +142,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Paulo Felipe Brito - [LinkedIn](https://www.linkedin.com/in/paulofelipebrito/) - paulofelipebrito@hotmail.com
 
-Project Link: [https://github.com/paulofelipebrito/cryptocoins-update-app](https://github.com/paulofelipebrito/cryptocoins-update-app)
+Project Link: [https://github.com/paulofelipebrito/CleanArchitectureMVC_c-](https://github.com/paulofelipebrito/CleanArchitectureMVC_c-)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,15 +174,15 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/paulofelipebrito/githubprofiles.svg?style=for-the-badge
-[contributors-url]: https://github.com/paulofelipebrito/cryptocoins-update-app/graphs/contributors
+[contributors-url]: https://github.com/paulofelipebrito/CleanArchitectureMVC_c-/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/paulofelipebrito/githubprofiles.svg?style=for-the-badge
-[forks-url]: https://github.com/paulofelipebrito/cryptocoins-update-app/network/members
+[forks-url]: https://github.com/paulofelipebrito/CleanArchitectureMVC_c-/network/members
 [stars-shield]: https://img.shields.io/github/stars/paulofelipebrito/githubprofiles.svg?style=for-the-badge
-[stars-url]: https://github.com/paulofelipebrito/cryptocoins-update-app/stargazers
+[stars-url]: https://github.com/paulofelipebrito/CleanArchitectureMVC_c-/stargazers
 [issues-shield]: https://img.shields.io/github/issues/paulofelipebrito/githubprofiles.svg?style=for-the-badge
-[issues-url]: https://github.com/paulofelipebrito/cryptocoins-update-app/issues
+[issues-url]: https://github.com/paulofelipebrito/CleanArchitectureMVC_c-/issues
 [license-shield]: https://img.shields.io/github/license/paulofelipebrito/githubprofiles.svg?style=for-the-badge
-[license-url]: https://github.com/paulofelipebrito/cryptocoins-update-app/LICENSE.txt
+[license-url]: https://github.com/paulofelipebrito/CleanArchitectureMVC_c-/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/paulofelipebrito/
 [product-screenshot]: images/screenshot.png
